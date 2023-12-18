@@ -11483,7 +11483,7 @@ const Lh = () => {
                   k.jsx("td", {
                     className: "w-20",
                     children: k.jsx("img", {
-                      src: "src/assets/Avocado Hass.jpg",
+                      src: "Avocado Hass.jpg",
                     }),
                   }),
                   k.jsx("td", {
